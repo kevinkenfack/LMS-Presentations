@@ -61,7 +61,7 @@ C’est un bon choix si ton client veut quelque chose de **très évolutif**, ca
 
 ## 🧠 Explication simple pour ton client (comme un débutant)
 
-> En résumé : Rocket LMS permet de créer un site où plusieurs professeurs peuvent venir, mettre leurs cours, les vendre, faire des classes en direct, et les étudiants peuvent acheter, suivre leurs leçons, passer des quiz et recevoir des certificats. L’admin (ton client) contrôle tout : les inscriptions, les paiements, les commissions, les messages, etc.
+> Rocket LMS permet de créer un site où plusieurs professeurs peuvent venir, mettre leurs cours, les vendre, faire des classes en direct, et les étudiants peuvent acheter, suivre leurs leçons, passer des quiz et recevoir des certificats. L’admin (ton client) contrôle tout : les inscriptions, les paiements, les commissions, les messages, etc.
 
 ---
 
@@ -239,7 +239,7 @@ Rocket LMS est livré avec un grand nombre de fonctionnalités, déjà prêtes �
 
 ---
 
-## 👶 Explication "mode bébé" pour ton client
+## 👶 Explication
 
 > **Concrètement, pour vous :**
 > – Vous avez un **panneau admin** où vous contrôlez tout (cours, paiements, profs, étudiants)
