@@ -1,422 +1,413 @@
-# 📚 Sélection Complète et Professionnelle des Meilleurs Solutions LMS
+# 📚 Sélection Complète et Professionnelle des Meilleures Solutions LMS
 
-Bonjour Ce document présente **une analyse détaillée et professionnelle**, avec **toutes les explications complètes**, les **fonctionnalités**, les **accès de démonstration**, **identifiants**, et des descriptions des différentes solutions LMS sur le marché..
-
----
-
-# ⭐ 1. Mentor LMS – Plateforme Moderne & Flexible
-
-**Mentor LMS** combine une architecture Laravel + React pour offrir une expérience fluide, moderne et adaptée aussi bien aux débutants qu’aux grandes plateformes LMS. C’est l’un des systèmes les plus intuitifs.
-
-## ✔️ Points forts détaillés
-
-* Deux modes en un : **LMS simple** ou **Marketplace SaaS multi-instructeurs**
-* Builder de cours moderne : sections, vidéos, PDF, quiz, assignments
-* Vrais cours en direct via Zoom
-* Système complet : certificats, notifications, évaluations, QCM
-* Sécurité et performances optimisées
-* Dashboard clair : revenus, statistiques, gestion des élèves
-* Branding facile : logo, couleurs, images
-* Système d’email intégré
-
-## 🛠️ Fonctionnalités avancées
-
-* Support vidéos multiples (YouTube, Vimeo, Upload)
-* Gestion des rôles (Admin / Instructeur / Étudiant)
-* Gestion des catégories & sous-catégories
-* Outils marketing intégrés (codes promo, bannières…)
-* Gestion des paiements : PayPal, Stripe, Mollie, Paystack
-* Messagerie intégrée entre instructeurs et étudiants
-* Certificats automatiques basés sur les résultats
-* Système de notation des cours
-* Construction de cursus modulaires (Modules → Leçons)
-
-## 🔐 Accès Démo COMPLETS
-
-* **Admin** : [admin@example.com](mailto:admin@example.com) / 12345678
-* **Instructeur** : [john.smith@example.com](mailto:john.smith@example.com) / 12345678
-* **Étudiant** : [sophie.miller@example.com](mailto:sophie.miller@example.com) / 12345678
-* Démo : [https://demo.mentor-lms.com](https://demo.mentor-lms.com)
-* Connexion : [https://demo.mentor-lms.com/login](https://demo.mentor-lms.com/login) (auto-remplissage)
-
-## 🎯 Idéal pour
-
-* Formateurs individuels
-* Startups e-learning
-* Petites écoles
-* Plateformes qui veulent un design moderne
+Bonjour ! Ce document présente **une analyse détaillée et professionnelle**, avec **toutes les explications complètes**, les **fonctionnalités**, les **accès de démonstration**, **identifiants**, et des descriptions des différentes solutions LMS sur le marché.
 
 ---
 
-# ⭐ 2. Rocket LMS – LMS Ultra Complet pour Plateformes Ambitieuses
+## ⭐ 1. Mentor LMS – Plateforme Moderne & Flexible
 
-**Rocket LMS** est l’un des scripts les plus complets du marché. Il est conçu pour des **plateformes sérieuses**, qui veulent gérer :
+**Mentor LMS** combine une architecture Laravel + React pour t'offrir une expérience fluide, moderne et adaptée aussi bien aux débutants qu'aux grandes plateformes LMS. C'est l'un des systèmes les plus intuitifs.
 
-* des cours vidéo
-* des cours en direct (webinaires)
-* des organisations (entreprises, écoles)
-* des marketplaces avec plusieurs instructeurs
+### ✔️ Points forts détaillés
 
-C’est un bon choix si ton client veut quelque chose de **très évolutif**, capable de grandir comme une vraie "Udemy" ou "Skool".
+- Deux modes en un : **LMS simple** ou **Marketplace SaaS multi-instructeurs**
+- Builder de cours moderne : sections, vidéos, PDF, quiz, assignments
+- Vrais cours en direct via Zoom
+- Système complet : certificats, notifications, évaluations, QCM
+- Sécurité et performances optimisées
+- Dashboard clair : revenus, statistiques, gestion des élèves
+- Branding facile : logo, couleurs, images
+- Système d'email intégré
 
-## 🧠 Explication simple
+### 🛠️ Fonctionnalités avancées
 
-> Rocket LMS permet de créer un site où plusieurs professeurs peuvent venir, mettre leurs cours, les vendre, faire des classes en direct, et les étudiants peuvent acheter, suivre leurs leçons, passer des quiz et recevoir des certificats. L’admin (ton client) contrôle tout : les inscriptions, les paiements, les commissions, les messages, etc.
+- Support vidéos multiples (YouTube, Vimeo, Upload)
+- Gestion des rôles (Admin / Instructeur / Étudiant)
+- Gestion des catégories & sous-catégories
+- Outils marketing intégrés (codes promo, bannières…)
+- Gestion des paiements : PayPal, Stripe, Mollie, Paystack
+- Messagerie intégrée entre instructeurs et étudiants
+- Certificats automatiques basés sur les résultats
+- Système de notation des cours
+- Construction de cursus modulaires (Modules → Leçons)
 
----
+### 🔐 Accès Démo COMPLETS
 
-## 🔐 Accès Démo & Identifiants
+**Démo** : [https://demo.mentor-lms.com](https://demo.mentor-lms.com)  
+**Connexion** : [https://demo.mentor-lms.com/login](https://demo.mentor-lms.com/login) (auto-remplissage)
 
-Pour tester la plateforme sans rien installer, il suffit d’utiliser la démo officielle.
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@example.com | 12345678 |
+| Instructeur | john.smith@example.com | 12345678 |
+| Étudiant | sophie.miller@example.com | 12345678 |
 
-### 1️⃣ Lien général
+### 🎯 Idéal pour
 
-* **Adresse du site démo** : [https://lms.rocket-soft.org](https://lms.rocket-soft.org)
-
-### 2️⃣ Connexion Admin (pour voir le panneau d’administration)
-
-1. Aller sur : [https://lms.rocket-soft.org/admin](https://lms.rocket-soft.org/admin)
-2. Email : **[admin@demo.com](mailto:admin@demo.com)**
-3. Mot de passe : **admin**
-
-L’admin voit : les ventes, les cours, les professeurs, les étudiants, les paiements, les réglages, etc.
-
-### 3️⃣ Connexion Instructeur
-
-1. Aller sur : [https://lms.rocket-soft.org/login](https://lms.rocket-soft.org/login)
-2. Email : **[instructor@demo.com](mailto:instructor@demo.com)**
-3. Mot de passe : **instructor**
-
-L’instructeur voit son propre tableau de bord : ses cours, ses ventes, ses notifications, ses étudiants, etc.
-
-### 4️⃣ Connexion Étudiant
-
-1. Aller sur : [https://lms.rocket-soft.org/login](https://lms.rocket-soft.org/login)
-2. Email : **[student@demo.com](mailto:student@demo.com)**
-3. Mot de passe : **student**
-
-L’étudiant voit : ses cours achetés, sa progression, ses certificats, ses quiz, etc.
-
-### 5️⃣ Connexion Organisation (entreprise / école)
-
-1. Aller sur : [https://lms.rocket-soft.org/login](https://lms.rocket-soft.org/login)
-2. Email : **[organization@demo.com](mailto:organization@demo.com)**
-3. Mot de passe : **organization**
-
-Une organisation peut inscrire plusieurs étudiants, suivre leurs progrès, acheter des cours pour son équipe, etc.
+- Formateurs individuels
+- Startups e-learning
+- Petites écoles
+- Plateformes qui veulent un design moderne
 
 ---
 
-## 💼 Pourquoi choisir Rocket LMS
+## ⭐ 2. Rocket LMS – LMS Ultra Complet pour Plateformes Ambitieuses
+
+**Rocket LMS** est l'un des scripts les plus complets du marché. Il est conçu pour des **plateformes sérieuses**, qui veulent gérer :
+
+- des cours vidéo
+- des cours en direct (webinaires)
+- des organisations (entreprises, écoles)
+- des marketplaces avec plusieurs instructeurs
+
+C'est un bon choix si tu veux quelque chose de **très évolutif**, capable de grandir comme une vraie "Udemy" ou "Skool".
+
+### 🧠 Explication simple
+
+> Rocket LMS te permet de créer un site où plusieurs professeurs peuvent venir, mettre leurs cours, les vendre, faire des classes en direct, et les étudiants peuvent acheter, suivre leurs leçons, passer des quiz et recevoir des certificats. L'admin (toi) contrôle tout : les inscriptions, les paiements, les commissions, les messages, etc.
+
+### 🔐 Accès Démo & Identifiants
+
+Pour tester la plateforme sans rien installer, il suffit d'utiliser la démo officielle.
+
+**Site démo** : [https://lms.rocket-soft.org](https://lms.rocket-soft.org)
+
+| Rôle | URL de connexion | Email | Mot de passe |
+|------|------------------|-------|--------------|
+| Admin | https://lms.rocket-soft.org/admin | admin@demo.com | admin |
+| Instructeur | https://lms.rocket-soft.org/login | instructor@demo.com | instructor |
+| Étudiant | https://lms.rocket-soft.org/login | student@demo.com | student |
+| Organisation | https://lms.rocket-soft.org/login | organization@demo.com | organization |
+
+**Ce que tu peux voir avec chaque compte :**
+
+- **Admin** : les ventes, les cours, les professeurs, les étudiants, les paiements, les réglages, etc.
+- **Instructeur** : son propre tableau de bord, ses cours, ses ventes, ses notifications, ses étudiants, etc.
+- **Étudiant** : ses cours achetés, sa progression, ses certificats, ses quiz, etc.
+- **Organisation** : peut inscrire plusieurs étudiants, suivre leurs progrès, acheter des cours pour son équipe, etc.
+
+### 💼 Pourquoi choisir Rocket LMS
 
 **Rocket LMS** est pensé comme une solution "tout-en-un" pour un business e-learning complet.
 
-### Avantages clés
+**Avantages clés :**
 
-* Solution très complète et mature
-* Très flexible : marche pour un seul formateur ou pour une marketplace
-* Nombreux modules professionnels (plugins)
-* Peut gérer des écoles, universités, centres de formation, entreprises
-* Très bon système de statistiques et de rapports
-* Pensé pour encaisser de vrais volumes (beaucoup d’utilisateurs, beaucoup de cours)
+- Solution très complète et mature
+- Très flexible : marche pour un seul formateur ou pour une marketplace
+- Nombreux modules professionnels (plugins)
+- Peut gérer des écoles, universités, centres de formation, entreprises
+- Très bon système de statistiques et de rapports
+- Pensé pour encaisser de vrais volumes (beaucoup d'utilisateurs, beaucoup de cours)
 
-### Liste d’arguments
+**Liste d'arguments :**
 
-* Launch faster without technical complexity
-* Save thousands in custom development costs
-* Adaptable to any educational business model or scale
-* Fully owned solution with no monthly fees
-* Stay in control of your data and content
-* Designed for both educators and entrepreneurs
-* Easily maintain brand consistency across all pages
-* Boost student engagement and retention
-* Simplify user, course, and payment management
-* Lower your operating costs with built-in tools
-* Stay ahead with regular updates and improvements
-* Trusted by hundreds of successful platforms
-* Works seamlessly with mobile and desktop devices
-* Support for multiple revenue streams
-* Designed to grow with your business
-* Reduce reliance on third-party platforms
-* Empowers you to scale without re-platforming
-* Accessible to non-technical users and developers alike
-* Includes everything needed to start selling courses
-* Build learner trust through a polished user experience
-* Eliminates platform dependency by giving you full control
-* Perfect for individual instructors, academies, or enterprises
-* Improves brand credibility with professional design
-* Support for multiple languages helps reach a global audience
-* Enables faster course deployment and monetization
-* Ensures consistent performance even under heavy traffic
-* Facilitates better learner outcomes through intuitive UX
-* Helps you compete with major e-learning platforms
-* Cost-effective alternative to SaaS LMS platforms
-* One-time payment means long-term savings
-* Optimized for both commercial and educational goals
+- Lance ta plateforme plus rapidement sans complexité technique
+- Économise des milliers d'euros en développement personnalisé
+- Adaptable à n'importe quel modèle éducatif ou échelle
+- Solution entièrement possédée sans frais mensuels
+- Garde le contrôle de tes données et contenus
+- Conçu pour les éducateurs et les entrepreneurs
+- Maintiens facilement la cohérence de ta marque sur toutes les pages
+- Augmente l'engagement et la rétention des étudiants
+- Simplifie la gestion des utilisateurs, cours et paiements
+- Réduis tes coûts opérationnels avec des outils intégrés
+- Reste à jour avec des mises à jour régulières
+- Approuvé par des centaines de plateformes à succès
+- Fonctionne parfaitement sur mobile et desktop
+- Support pour plusieurs sources de revenus
+- Conçu pour grandir avec ton business
+- Réduis ta dépendance aux plateformes tierces
+- Te permet de scaler sans changer de plateforme
+- Accessible aux utilisateurs non techniques et aux développeurs
+- Inclut tout ce dont tu as besoin pour vendre des cours
+- Construis la confiance des apprenants avec une expérience polie
+- Élimine la dépendance aux plateformes en te donnant le contrôle total
+- Parfait pour instructeurs individuels, académies ou entreprises
+- Améliore la crédibilité de ta marque avec un design professionnel
+- Support multilingue pour atteindre un public mondial
+- Permet un déploiement et une monétisation plus rapides des cours
+- Assure des performances constantes même sous forte charge
+- Facilite de meilleurs résultats d'apprentissage grâce à une UX intuitive
+- T'aide à concurrencer les grandes plateformes e-learning
+- Alternative rentable aux plateformes LMS SaaS
+- Paiement unique signifie économies à long terme
+- Optimisé pour les objectifs commerciaux et éducatifs
 
----
+### 🧩 Vue d'ensemble des fonctionnalités
 
-## 🧩 Vue d’ensemble des fonctionnalités (Features Overview)
+Rocket LMS est livré avec un grand nombre de fonctionnalités, déjà prêtes à l'emploi.
 
-Rocket LMS est livré avec un grand nombre de fonctionnalités, déjà prêtes à l’emploi.
+**Contenu & Cours :**
 
-### Contenu & Cours
+- Types de contenu multiples : **Cours vidéo, Classes en direct, cours texte**
+- Classes publiques & privées
+- Intégration YouTube, Vimeo, et S3
+- Intégration Google Calendar
+- Instructeur unique & multiples instructeurs
+- Rappels de réunions & webinaires
+- Système de support de cours
+- Statistiques & Analytics de cours
+- Drip content (débloquer le contenu progressivement)
+- Assignments & Devoirs
+- Bundles de cours
 
-* Multiple content types: **Video courses, Live classes, text courses**
-* Public & private classes
-* YouTube, Vimeo, and S3 integration
-* Google Calendar integration
-* Single & multiple instructors
-* Meeting & webinar reminders
-* Course support system
-* Course Statistics & Analytics
-* Drip content (débloquer le contenu progressivement)
-* Assignments & Homework
-* Course bundles
+**Gestion des utilisateurs & rôles :**
 
-### Gestion des utilisateurs & rôles
+- Instructeur unique ou marketplace multi-instructeurs
+- Système éducatif organisationnel (entreprises, écoles)
+- Permissions utilisateurs
+- Staff & permissions avec rôles personnalisés
+- Limite d'appareils (limiter les connexions simultanées)
+- Permissions de rôles utilisateurs (gérer ce que chaque rôle peut voir)
 
-* Single instructor ou multi-instructor marketplace
-* Organizational education system (entreprises, écoles)
-* User permissions
-* Staff & permissions avec rôles personnalisés
-* Device Limit (limiter les connexions simultanées)
-* User Role Permissions (gérer ce que chaque rôle peut voir)
+**Paiements & monétisation :**
 
-### Paiements & monétisation
+- Système comptable intégré
+- Commissions variables (par instructeur, par organisation)
+- Plus de 40 passerelles de paiement mondiales (PayPal, Stripe, Paystack, Razorpay, etc.)
+- Paiement hors ligne (plugin)
+- Inscription manuelle
+- Paiements échelonnés & partiels
+- Cashback & retours d'achats
+- Coupons de premier achat
+- Réduction panier & pop-up de ventes
 
-* Built-in accounting system
-* Variable commissions (par instructeur, par organisation)
-* 40+ worldwide payment gateways (PayPal, Stripe, Paystack, Razorpay, etc.)
-* Offline payment (plugin)
-* Manual enrollment
-* Installments & partial payments
-* Cashback & purchase returns
-* First purchase coupons
-* Cart discount & sales pop-up
+**Marketing & engagement :**
 
-### Marketing & engagement
+- Codes de réduction & coupons
+- Système d'affiliation & de parrainage
+- Club de points de récompense
+- Bonus d'inscription
+- Système de cours à venir + listes d'attente
+- Forum & communauté
+- Forum de cours (questions/réponses par cours)
+- Tableau d'affichage & tableau d'affichage de cours
+- Badges & gamification
+- Newsletters email
+- Notifications & rappels de cours
 
-* Discount codes & coupons
-* Affiliate & referral system
-* Reward points club
-* Registration bonus
-* Upcoming courses system + waitlists
-* Forum & community
-* Course forum (questions/réponses par cours)
-* Noticeboard & course noticeboard
-* Badges & gamification
-* Email newsletters
-* Course notifications & reminders
+**Technique & administration :**
 
-### Technique & administration
+- Front-end entièrement responsive
+- Localisation & multilingue
+- Multi-devises
+- Support GDPR
+- Lecteur PDF en ligne
+- Changer l'URL du panneau admin
+- Mise à jour depuis le panneau admin
+- Stockage vidéo sécurisé (éviter les téléchargements)
+- Support des réunions Jitsi
+- Système d'appel vidéo dans l'application
+- Système de classe en direct dans l'application (Agora)
 
-* Fully responsive front-end
-* Localization & multi-language
-* Multi-currency
-* GDPR support
-* Online PDF viewer
-* Change admin panel URL
-* Update from admin panel
-* Secure video storage (avoid downloads)
-* Jitsi meeting support
-* In-app video call system
-* In-app live class system (Agora)
+**Plugins professionnels (bundle) :**
 
-### Plugins professionnels (bundle)
+- Quiz & Certification
+- Réservation de réunions 1-à-1 & en groupe
+- Packages SaaS
+- Boutique & marketplace (produits physiques & digitaux)
+- Cours SCORM
+- Système de récompenses
+- Recherche de tuteur
+- Générateur de contenu IA (API ChatGPT)
+- Constructeur de formulaires
+- Gestion IP & accès
+- Récupération de panier abandonné, etc.
 
-* Quiz & Certification
-* 1-to-1 & group meeting booking
-* SaaS packages
-* Store & marketplace (produits physiques & digitaux)
-* SCORM courses
-* Reward system
-* Tutor finder
-* AI Content Generator (ChatGPT API)
-* Form builder
-* IP & access management
-* Abandoned cart recovery, etc.
+### 👶 En résumé
 
----
+**Concrètement :**
 
-## 👶 Explication
+- Tu as un **panneau admin** où tu contrôles tout (cours, paiements, profs, étudiants)
+- Les **professeurs** ont leur propre espace pour créer leurs cours, voir leurs ventes et leurs élèves
+- Les **étudiants** créent un compte, achètent des cours, suivent les leçons, font des quiz et reçoivent des certificats
+- Tu peux ajouter des **entreprises / écoles** qui achètent des cours pour leurs équipes
 
-> **Concrètement,**
-> – Vous avez un **panneau admin** où vous contrôlez tout (cours, paiements, profs, étudiants)
-> – Les **professeurs** ont leur propre espace pour créer leurs cours, voir leurs ventes et leurs élèves
-> – Les **étudiants** créent un compte, achètent des cours, suivent les leçons, font des quiz et reçoivent des certificats
-> – Vous pouvez ajouter des **entreprises / écoles** qui achètent des cours pour leurs équipes
->
-> C’est une solution faite pour quelqu’un qui veut quelque chose de **sérieux**, qui peut évoluer dans le temps, avec beaucoup de possibilités.
+C'est une solution faite pour quelqu'un qui veut quelque chose de **sérieux**, qui peut évoluer dans le temps, avec beaucoup de possibilités.
 
 ---
 
-# ⭐ 3. Academy LMS – Classique, simple et efficace
+## ⭐ 3. Academy LMS – Classique, simple et efficace
 
-**Academy LMS** est un LMS éprouvé, très populaire, simple à installer et extrêmement facile à utiliser. Il offre une structure claire et adaptée aux formations en ligne.
+**Academy LMS** est un LMS éprouvé, très populaire, simple à installer et extrêmement facile à utiliser. Il t'offre une structure claire et adaptée aux formations en ligne.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* Très facile à utiliser pour enseignant et étudiant
-* Organisation structurée : Catégories → Sous-catégories → Cours → Leçons
-* Marketplace possible
-* Player vidéo intégré
-* Suivi des étudiants
-* Gestion des paiements et des cours
+- Très facile à utiliser pour enseignant et étudiant
+- Organisation structurée : Catégories → Sous-catégories → Cours → Leçons
+- Marketplace possible
+- Player vidéo intégré
+- Suivi des étudiants
+- Gestion des paiements et des cours
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
 Connexion automatique sur la page de démo.
 
-## 🎯 Idéal pour
+### 🎯 Idéal pour
 
 Formateurs, écoles, projets rapides et légers.
 
 ---
 
-# ⭐ 4. LMSZAI – LMS + Fonctionnalités SaaS
+## ⭐ 4. LMSZAI – LMS + Fonctionnalités SaaS
 
 **LMSZAI** est pensé pour les plateformes multi-écoles et les projets **SaaS**, où chaque organisation peut disposer de son propre espace.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* Support vidéos, lives, textes, quiz, discussions
-* Multi-instructeurs / multi-organisations
-* Système de badges et certificats
-* Gestion des paiements
-* Support ticket intégré
-* Multilingue + RTL
-* Tableau de bord complet pour admin, organisations et instructeurs
+- Support vidéos, lives, textes, quiz, discussions
+- Multi-instructeurs / multi-organisations
+- Système de badges et certificats
+- Gestion des paiements
+- Support ticket intégré
+- Multilingue + RTL
+- Tableau de bord complet pour admin, organisations et instructeurs
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
-* Admin : [admin@gmail.com](mailto:admin@gmail.com) / 123456
-* Organisation : [organization@gmail.com](mailto:organization@gmail.com) / 123456
-* Instructeur : [instructor@gmail.com](mailto:instructor@gmail.com) / 123456
-* Étudiant : [student@gmail.com](mailto:student@gmail.com) / 123456
-* Démo : [https://lmszai.zainikthemes.com](https://lmszai.zainikthemes.com)
+**Démo** : [https://lmszai.zainikthemes.com](https://lmszai.zainikthemes.com)
 
-## 🎯 Idéal pour
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@gmail.com | 123456 |
+| Organisation | organization@gmail.com | 123456 |
+| Instructeur | instructor@gmail.com | 123456 |
+| Étudiant | student@gmail.com | 123456 |
+
+### 🎯 Idéal pour
 
 Plateformes multi-écoles ou SaaS (type Teachify, Thinkific, etc.).
 
 ---
 
-# ⭐ 5. Edulab LMS – Design Moderne
+## ⭐ 5. Edulab LMS – Design Moderne
 
-**Edulab** est une solution LMS moderne avec un très beau design basé sur **Tailwind CSS**, idéale pour offrir une expérience premium.
+**Edulab** est une solution LMS moderne avec un très beau design basé sur **Tailwind CSS**, idéale pour t'offrir une expérience premium.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* Design très moderne et épuré
-* 5 thèmes + mode sombre
-* Architecture modulaire
-* Builder de certificats
-* Gestion avancée des rôles (Admin, Étudiant, Instructeur, Organisation)
-* Filtre avancé des cours
+- Design très moderne et épuré
+- 5 thèmes + mode sombre
+- Architecture modulaire
+- Builder de certificats
+- Gestion avancée des rôles (Admin, Étudiant, Instructeur, Organisation)
+- Filtre avancé des cours
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
-* Admin : [admin@gmail.com](mailto:admin@gmail.com) / 123456
-* Étudiant : [student@gmail.com](mailto:student@gmail.com) / 123456
-* Instructeur : [instructor@gmail.com](mailto:instructor@gmail.com) / 123456
-* Organisation : [organization@gmail.com](mailto:organization@gmail.com) / 123456
-* Démo : [https://edulab.hivetheme.com/login](https://edulab.hivetheme.com/login)
+**Démo** : [https://edulab.hivetheme.com/login](https://edulab.hivetheme.com/login)
 
-## 🎯 Idéal pour
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@gmail.com | 123456 |
+| Étudiant | student@gmail.com | 123456 |
+| Instructeur | instructor@gmail.com | 123456 |
+| Organisation | organization@gmail.com | 123456 |
+
+### 🎯 Idéal pour
 
 Plateformes modernes et éducatives cherchant une UI premium.
 
 ---
 
-# ⭐ 6. Educve LMS + Fonctionnalités Avancées
+## ⭐ 6. Educve LMS + Fonctionnalités Avancées
 
 **Educve LMS** est un LMS robuste et complet basé sur Laravel 10, avec une organisation claire et de nombreuses fonctionnalités.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* 4 thèmes intégrés
-* Système de commissions + retrait instructeur
-* Blog + SEO + pages personnalisées
-* Certificat builder
-* Administration ultra complète
-* Multi-langue + multi-devises
-* 8 passerelles de paiement
+- 4 thèmes intégrés
+- Système de commissions + retrait instructeur
+- Blog + SEO + pages personnalisées
+- Certificat builder
+- Administration ultra complète
+- Multi-langue + multi-devises
+- 8 passerelles de paiement
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
-* Admin : [admin@gmail.com](mailto:admin@gmail.com) / 1234
-* Étudiant : [student@gmail.com](mailto:student@gmail.com) / 1234
-* Instructeur : [instructor@gmail.com](mailto:instructor@gmail.com) / 1234
-* Démo : [https://educve-laravel.themedox.com](https://educve-laravel.themedox.com)
+**Démo** : [https://educve-laravel.themedox.com](https://educve-laravel.themedox.com)
 
-## 🎯 Idéal pour
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@gmail.com | 1234 |
+| Étudiant | student@gmail.com | 1234 |
+| Instructeur | instructor@gmail.com | 1234 |
+
+### 🎯 Idéal pour
 
 Écoles, universités, centres de formation.
 
 ---
 
-# ⭐ 7. SkillGro LMS – Moderne, rapide et professionnel
+## ⭐ 7. SkillGro LMS – Moderne, rapide et professionnel
 
-**SkillGro** est un LMS moderne, stable, et très complet. Il est idéal pour lancer une plateforme de cours en ligne professionnelle.
+**SkillGro** est un LMS moderne, stable, et très complet. Il est idéal pour que tu lances une plateforme de cours en ligne professionnelle.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* Builder de cours avec drag & drop
-* Live classes (Zoom / Jitsi)
-* Protection des contenus
-* Certificates builder
-* SEO, analytics, pages dynamiques
-* Support Amazon S3 / Wasabi
+- Builder de cours avec drag & drop
+- Live classes (Zoom / Jitsi)
+- Protection des contenus
+- Certificates builder
+- SEO, analytics, pages dynamiques
+- Support Amazon S3 / Wasabi
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
-* Admin : [admin@gmail.com](mailto:admin@gmail.com) / 1234
-* Étudiant : [student@gmail.com](mailto:student@gmail.com) / 1234
-* Instructeur : [instructor@gmail.com](mailto:instructor@gmail.com) / 1234
-* Démo : [https://skillgro.websolutionus.com](https://skillgro.websolutionus.com)
+**Démo** : [https://skillgro.websolutionus.com](https://skillgro.websolutionus.com)
 
-## 🎯 Idéal pour
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Admin | admin@gmail.com | 1234 |
+| Étudiant | student@gmail.com | 1234 |
+| Instructeur | instructor@gmail.com | 1234 |
+
+### 🎯 Idéal pour
 
 Plateforme LMS professionnelle avec vidéos + direct.
 
 ---
 
-# ⭐ 8. Faculty LMS – LMS Modern + IA
+## ⭐ 8. Faculty LMS – LMS Modern + IA
 
-**Faculty LMS** offre un design moderne, une structure marketplace complète et des outils basés sur l’IA.
+**Faculty LMS** t'offre un design moderne, une structure marketplace complète et des outils basés sur l'IA.
 
-## ✔️ Points forts
+### ✔️ Points forts
 
-* Support IA intégré
-* Support SCORM, vidéos, lives
-* Multi-langue
-* Marketplace complète
-* Pages dynamiques + Page Builder
-* SEO intégré
+- Support IA intégré
+- Support SCORM, vidéos, lives
+- Multi-langue
+- Marketplace complète
+- Pages dynamiques + Page Builder
+- SEO intégré
 
-## 🔐 Accès Démo
+### 🔐 Accès Démo
 
-* Instructeur : [instructor@spagreen.net](mailto:instructor@spagreen.net) / 123456
-* Démo : [https://faculty.spagreen.net/demo/](https://faculty.spagreen.net/demo/)
+**Démo** : [https://faculty.spagreen.net/demo/](https://faculty.spagreen.net/demo/)
 
-## 🎯 Idéal pour
+| Rôle | Email | Mot de passe |
+|------|-------|--------------|
+| Instructeur | instructor@spagreen.net | 123456 |
+
+### 🎯 Idéal pour
 
 Plateformes modernes cherchant IA + marketplace + produits digitaux.
 
 ---
 
-# 🎯 Mon Conseil Professionnelle
+## 🎯 Mon Conseil Professionnel
 
 Ce document réunit **les meilleurs scripts LMS**, avec :
 
-* leurs points forts
-* leurs accès démo complets
-* leurs rôles disponibles (Admin / Étudiant / Instructeur)
-* leurs fonctionnalités détaillées
+- leurs points forts
+- leurs accès démo complets
+- leurs rôles disponibles (Admin / Étudiant / Instructeur)
+- leurs fonctionnalités détaillées
 
 👉 **Rocket, SkillGro et Faculty** sont parfaits pour des projets ambitieux.
 
-👉 **Mentor, Academic et Educve** pour des déploiements rapides et structurés.
+👉 **Mentor, Academy et Educve** pour des déploiements rapides et structurés.
 
 👉 **LMSZai** pour un modèle SaaS multi-écoles.
